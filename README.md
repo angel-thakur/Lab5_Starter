@@ -4,7 +4,7 @@ Lab Partners:
 - Angel Thakur
 - Sofia De Marco
 
-Expose link: https://angel-thakur.github.io/Lab5_Starter/expose.html
+Expose link: https://angel-thakur.github.io/Lab5_Starter/expose.html    
 Explore link: https://angel-thakur.github.io/Lab5_Starter/explore.html
 
 
